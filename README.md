@@ -16,4 +16,4 @@
 
 ## Imagem do Resultado:
 
-![alt text](https://github.com/lucianonevesln/docker-python-django/)
+![alt text](https://github.com/lucianonevesln/docker-python-django/blob/main/img/img1.png)
